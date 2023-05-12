@@ -8,7 +8,7 @@ La página permite realizar la compra en línea, sin embargo, el valor agregado 
 La página permite resolver el problema de parte y parte, ya que el usuario va a tener la seguridad de haber ingresado un valor correcto y de la misma forma, la persona ofertante del producto tendrá certeza de que la tarjeta de crédito es válida para continuar con la compra. 
 
 3. Distribución de la página:
-image.png
+![image](https://github.com/Katycevallos/Card-Validation/assets/127429335/6732a664-0027-4156-b4ac-cde59e8b23e5)
 
 - En la primera parte tenemos el header que ha sido incluido con varias opciones como es el logo de la empresa, un menú que incluye Servicios, Acerca de, Contacto, Buscar, Registrarse e Iniciar Sesión, cabe destacar que estas opciones no se encuentran habilitadas ya que el fin del proyecto es validar el número de tarjeta ingresado. 
 
